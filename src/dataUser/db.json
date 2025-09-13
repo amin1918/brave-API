@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "4rfc",
+      "fullName": "Emiley Whatson",
+      "email": "emi@gmail.com",
+      "password": "123",
+      "cart": []
+    },
+    {
+      "id": "vdt",
+      "fullName": "James Smith",
+      "email": "james.smith@gmail.com",
+      "password": "abc123",
+      "cart": []
+    },
+    {
+      "id": "cafc",
+      "fullName": "Amin Ahmadzadeh",
+      "email": "amin@gmail.com",
+      "password": "123",
+      "cart": []
+    },
+    {
+      "id": "5f80",
+      "fullname": "Dany Smith",
+      "email": "dsmith@gmail.com",
+      "password": "ds123",
+      "cart": []
+    },
+    {
+      "id": "1809",
+      "fullname": "Wiliam Sirvan",
+      "email": "wsir@gmail.com",
+      "password": "123ld",
+      "cart": []
+    }
+  ]
+}
